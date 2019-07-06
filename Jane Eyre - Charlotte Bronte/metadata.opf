@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Jane Eyre</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Brontë, Charlotte">Charlotte Brontë</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">e608f19c-70ea-4362-ba7c-6027bc7b60ef</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.41.3) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2019-07-05T04:00:00+00:00</dc:date>
+    <dc:publisher>CUNY Student Editions</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">48f4f1fe-17c3-4662-8695-c64cc5c8aa10</dc:identifier>
+    <meta content="{&quot;Charlotte Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="CUNY Student Editions" name="calibre:series"/>
+    <meta content="2.0" name="calibre:series_index"/>
+    <meta name="calibre:title_sort" content="Jane Eyre"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="001-cover.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="002-title-page.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="003-note.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="043-appendix-1.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="volume1/004-original-title-page.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="volume1/005-chapter-01.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="volume1/006-chapter-02.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="volume1/007-chapter-03.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="volume1/008-chapter-04.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="volume1/009-chapter-05.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="volume1/010-chapter-06.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="volume1/011-chapter-07.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="volume1/012-chapter-08.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="volume1/013-chapter.09.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="volume1/014-chapter-10.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="volume1/015-chapter-11.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="volume1/016-chapter-12.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="volume1/017-chapter-13.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="volume1/018-chapter-14.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="volume1/019-chapter-15.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="volume2/020-chapter-16.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="volume2/021-chapter-17.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="volume2/022-chapter-18.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="volume2/023-chapter-19.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="volume2/024-chapter-20.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="volume2/025-chapter-21.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="volume2/026-chapter-22.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="volume2/027-chapter-23.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="volume2/028-chapter-24.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="volume2/029-chapter-25.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="volume2/030-chapter-26.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="volume3/031-chapter-27.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="volume3/032-chapter-28.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="volume3/033-chapter-29.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="volume3/034-chapter-30.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="volume3/035-chapter-31.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="volume3/036-chapter-32.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="volume3/037-chapter-33.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="volume3/038-chapter-34.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="volume3/039-chapter-35.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="volume3/040-chapter-36.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="volume3/041-chapter-37.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="volume3/042-chapter-38.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Jane_Eyre__Volume_1.png" id="id6" media-type="image/png"/>
+    <item href="Jane-eyre-cover.jpg" id="id46" media-type="image/jpeg"/>
+    <item href="pigeon-imprint-small.png" id="id4" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id45"/>
+    <itemref idref="id5"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+  </spine>
+</package>

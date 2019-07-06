@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="e608f19c-70ea-4362-ba7c-6027bc7b60ef" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.41.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jane Eyre</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="001-cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="002-title-page.xhtml#toc_4"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Note about the Text</text>
+      </navLabel>
+      <content src="003-note.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Volume I</text>
+      </navLabel>
+      <content src="volume1/004-original-title-page.xhtml"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Chapter I</text>
+        </navLabel>
+        <content src="volume1/005-chapter-01.xhtml"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Chapter II</text>
+        </navLabel>
+        <content src="volume1/006-chapter-02.xhtml"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Chapter III</text>
+        </navLabel>
+        <content src="volume1/007-chapter-03.xhtml"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Chapter IV</text>
+        </navLabel>
+        <content src="volume1/008-chapter-04.xhtml"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Chapter V</text>
+        </navLabel>
+        <content src="volume1/009-chapter-05.xhtml"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Chapter VI</text>
+        </navLabel>
+        <content src="volume1/010-chapter-06.xhtml"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Chapter VII</text>
+        </navLabel>
+        <content src="volume1/011-chapter-07.xhtml"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Chapter VIII</text>
+        </navLabel>
+        <content src="volume1/012-chapter-08.xhtml"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Chapter IX</text>
+        </navLabel>
+        <content src="volume1/013-chapter.09.xhtml"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Chapter X</text>
+        </navLabel>
+        <content src="volume1/014-chapter-10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Chapter XI</text>
+        </navLabel>
+        <content src="volume1/015-chapter-11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Chapter XII</text>
+        </navLabel>
+        <content src="volume1/016-chapter-12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Chapter XIII</text>
+        </navLabel>
+        <content src="volume1/017-chapter-13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Chapter XIV</text>
+        </navLabel>
+        <content src="volume1/018-chapter-14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Chapter XV</text>
+        </navLabel>
+        <content src="volume1/019-chapter-15.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Volume II</text>
+      </navLabel>
+      <content src="volume2/020-chapter-16.xhtml"/>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Chapter XVI</text>
+        </navLabel>
+        <content src="volume2/020-chapter-16.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Chapter XVII</text>
+        </navLabel>
+        <content src="volume2/021-chapter-17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>Chapter XVIII</text>
+        </navLabel>
+        <content src="volume2/022-chapter-18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>Chapter XIX</text>
+        </navLabel>
+        <content src="volume2/023-chapter-19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>Chapter XX</text>
+        </navLabel>
+        <content src="volume2/024-chapter-20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Chapter XXI</text>
+        </navLabel>
+        <content src="volume2/025-chapter-21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Chapter XXII</text>
+        </navLabel>
+        <content src="volume2/026-chapter-22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Chapter XXIII</text>
+        </navLabel>
+        <content src="volume2/027-chapter-23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>Chapter XXIV</text>
+        </navLabel>
+        <content src="volume2/028-chapter-24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>Chapter XXV</text>
+        </navLabel>
+        <content src="volume2/029-chapter-25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Chapter XVI</text>
+        </navLabel>
+        <content src="volume2/030-chapter-26.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Volume III</text>
+      </navLabel>
+      <content src="volume3/031-chapter-27.xhtml"/>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>Chapter XXVII</text>
+        </navLabel>
+        <content src="volume3/031-chapter-27.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>Chapter XXVIII</text>
+        </navLabel>
+        <content src="volume3/032-chapter-28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>Chapter XXIX</text>
+        </navLabel>
+        <content src="volume3/033-chapter-29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>Chapter XXX</text>
+        </navLabel>
+        <content src="volume3/034-chapter-30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>Chapter XXXI</text>
+        </navLabel>
+        <content src="volume3/035-chapter-31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>Chapter XXXII</text>
+        </navLabel>
+        <content src="volume3/036-chapter-32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>Chapter XXXIII</text>
+        </navLabel>
+        <content src="volume3/037-chapter-33.xhtml"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>Chapter XXXIV</text>
+        </navLabel>
+        <content src="volume3/038-chapter-34.xhtml"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>Chapter XXXV</text>
+        </navLabel>
+        <content src="volume3/039-chapter-35.xhtml"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>Chapter XXXVI</text>
+        </navLabel>
+        <content src="volume3/040-chapter-36.xhtml"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>Chapter XXXVII</text>
+        </navLabel>
+        <content src="volume3/041-chapter-37.xhtml"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Chapter XXXVIII</text>
+        </navLabel>
+        <content src="volume3/042-chapter-38.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>Appendix</text>
+      </navLabel>
+      <content src="043-appendix-1.xhtml#toc_1"/>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>Preface to the Second Edition</text>
+        </navLabel>
+        <content src="043-appendix-1.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>Note to the Third Edition</text>
+        </navLabel>
+        <content src="043-appendix-1.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
